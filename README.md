@@ -13,13 +13,13 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as an Electrical & Electronics Engineer. And on the other, due to my personality, I love to communicate with people and solve problems.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I got my Bachelor's degree from Federal university of technology owerri nigeria & ongoing Master's Degree from the University of lancasteracuk and have since been in the journey of Sofwtare testing and development.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+i Have worked as an intern in 2009 for nokia testing test Now, I wish to utlisse my technical & analytical skills in software testing. Currently, I am intensively studying techniques and tools by working remotely for startups testing both ios,andriod & windows applications.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+i am always excited about ne products and the dyanmics involved in its creation and  developmennt, i have tested over 400hundred applications in the past 5years working and volunteering 
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
@@ -87,7 +87,7 @@ __Mind maps & diagrams__
 __Robot Framework Test Automation, Levels 1-4__  
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
 An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
+[Link to the certificate of the Level 1]()  
 *Level 2-4 in progress*
 
 __The 1st Online Institute of Software Testing__  
