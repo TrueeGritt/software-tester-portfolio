@@ -19,7 +19,7 @@ I got my Bachelor's degree from Federal university of technology owerri nigeria 
 
 i Have worked as an intern in 2009 for nokia testing test Now, I wish to utlisse my technical & analytical skills in software testing. Currently, I am intensively studying techniques and tools by working remotely for startups testing both ios,andriod & windows applications.
 
-i am always excited about ne products and the dyanmics involved in its creation and  developmennt, i have tested over 400hundred applications in the past 5years working and volunteering 
+i am always excited about new products and the dyanmics involved in its creation and  developmennt, i have tested over 400hundred applications in the past 5years working and volunteering 
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
