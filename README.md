@@ -65,10 +65,57 @@ __TestRail__
   * able to run created test cases
   * know how to use dashboards and statistics
 
+__Katalon__
+  * Automate web applications using Katalon Studio
+  * Create web ui tests for multiple browsers
+  * Learn record and playback
+  * Find objects using object spy
+  * Execute web ui automation tests on multiple browsers
+  * Results and Reporting
+  * Send Email notification with results
+  * Integrate with Jenkins for Continuous Integration
+  * Integrate with Git (Version Control System)
+  * Work with Katalon Studio for personal and enterprise projects
+
+__Selenium__
+  * Create automation frameworks using Selenium in Java
+  * Understand the basic and advanced concepts and working of Selenium
+  * Understand the basic and advanced  concepts of Automation Frameworks
+  * create test automation framework step by step
+
+__Apache Jmeter__
+  * Data driven Testing from external file
+  * Importance of Correlation   
+  * Usage of Correlation on Dynamic values
+  * Http cookie Manager and Link Parser
+  * Beanshell Scripting Introduction
+  * Jmeter Scripting with Beanshelll Language
+  * Integration of Selenium Testcases with Jmeter
+  * REST API overview and usage Load Testing on REST API's 
+ 
+ __Postman__
+  * Understand Rest API Automation with Postman
+  * Assertions in Postman 
+  * Collection Test Runner in Postman
+  * Validating Json responses
+  * Json Schema validations in Postman
+  * Data Driven testing with Postman
+  * Error handling Scenarios in Postman
+  * Work flow execution methods in Postman
+  * Parsing complex Json responses with Pm object
+  * Understand Soap WebServices Automation with Postman
+  * OAuth 2.0 Authentication Automation with Postman
+  * What is Newman and running tests through Newman
+  * Newman CLI options configuration
+  * Prepare HTML reports for Postman Automation execution
+  * Integration Postman Automation to Jenkins for CI/CD Integration
+  * Team collaboration with Postman
+  * Version control Management with Postman
+ 
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
-
+ 
 __SoapUI__
 
 __Browser developer tools__
@@ -84,9 +131,9 @@ __Mind maps & diagrams__
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
+__Get Real Time exposure on Load Testing with the most popular open source Performance Testing tool – Jmeter__  
+*online courses by [Bryan Lamb] https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/learn/lecture/2285830?start=15#overview, Udemy*  
+An intensive course in Apche jmeter.  
 [Link to the certificate of the Level 1]()  
 *Level 2-4 in progress*
 
