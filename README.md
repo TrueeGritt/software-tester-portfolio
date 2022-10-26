@@ -22,7 +22,7 @@ i Have worked as an intern in 2009 for nokia testing test Now, I wish to utlisse
 i am always excited about new products and the dyanmics involved in its creation and  developmennt, i have tested over 400hundred applications in the past 5years working and volunteering 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1n_ugXGHb94L96dzcrZTt2ugWJboae45K/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1u4Z35MEnmMC0H7jNFPkpoYpTTfUEFFno/view?usp=sharing).
 
 ## Skills
 
