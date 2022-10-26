@@ -133,19 +133,19 @@ __Mind maps & diagrams__
 
 __Get Real Time exposure on Load Testing with the most popular open source Performance Testing tool – Jmeter__  
 *online courses by [Bryan Lamb] https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/learn/lecture/2285830?start=15#overview, Udemy*  
-An intensive course in Apche jmeter.  
-[Link to the certificate of the Level 1]()  
+An intensive course in Manual Software testing.  
+[Link to the certificate of the Level 1](https://drive.google.com/file/d/1VtMq8EvaBHiIRtJkf2OUvT_ryCAHL-b6/view?usp=sharing)  
 *Level 2-4 in progress*
 
 __The 1st Online Institute of Software Testing__  
 *online course by Quality Lab, Moscow, Russia*  
 A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+[Link to the certificate](https://drive.google.com/file/d/1VqoIR_6oUZ1LAFExePTW0-8dLk-ZoDoQ/view?usp=sharing)
 
 __Onboarding to Testing · Jedi Point__  
 *online course by Quality Lab, Moscow, Russia*  
 An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+[Link to the certificate](https://drive.google.com/file/d/1tmrNOqqa_hwEvpaR4iE17AXBg3eMZz6I/view?usp=sharing)
 
 
 ## Examples of my work
