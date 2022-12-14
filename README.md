@@ -13,13 +13,26 @@
 
 ## About me
 
-My Name is Prasie i am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as an Electrical & Electronics Engineer. And on the other, due to my personality, I love to communicate with people and solve problems.
+Akalazu Tobechukwu praise is a Skilled Software QA Engineer with certification in over 7 years full system development lifecycle experience, including designing, developing, and implementing test plans, test cases and test processes, accustomed to working in complex, project-based environments. Multifaceted experience in QA software testing, software development, and user-acceptance testing. A quick learner that thrives in the challenge.
 
-I got my Bachelor's degree from Federal university of technology owerri nigeria & ongoing Master's Degree from the University of lancasteracuk and have since been in the journey of Sofwtare testing and development.
+He has have served as an Intern with Nokia,Jobberman, spectranet, indriver and also helped clients like Joomla, Travelstart, Profeworld to develop and build robust software customer related products & services.
 
-i Have worked as an intern in 2009 for nokia testing test Now, I wish to utlisse my technical & analytical skills in software testing. Currently, I am intensively studying techniques and tools by working remotely for startups testing both ios,andriod & windows applications.
+What he does :
+Quality Assurance Engineer | QA Manuel Tester | QA Automation Tester
 
-i am always excited about new products and the dyanmics involved in its creation and  developmennt, i have tested over 400hundred applications in the past 5years working and volunteering 
+Skill:
+- Testing Artifacts
+- Manual Testing
+- Automation Testing (Postman)
+- Agile Test Planning & Testing
+- System Testing and Testing Lifecycle
+- Regression and Functional Testing
+- UI & Compatibility Testing
+- Data Interface & Migration Testing
+- Performance/Load/Stress Testing
+- Testing Automation
+- Defect/Bug Tracking
+- Using Katalon, Selenium, APache JMeter
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1u4Z35MEnmMC0H7jNFPkpoYpTTfUEFFno/view?usp=sharing).
