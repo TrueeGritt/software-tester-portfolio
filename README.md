@@ -35,7 +35,7 @@ Skill:
 - Using Katalon, Selenium, APache JMeter
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1u4Z35MEnmMC0H7jNFPkpoYpTTfUEFFno/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1ax3AydYyLBrYuuKdu-P_VAcjZaGZPogc/view?usp=sharing).
 
 ## Skills
 
