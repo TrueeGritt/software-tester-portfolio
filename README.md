@@ -13,26 +13,26 @@
 
 ## About me
 
-Akalazu Tobechukwu praise is a Skilled Software QA Engineer with certification in over 7 years full system development lifecycle experience, including designing, developing, and implementing test plans, test cases and test processes, accustomed to working in complex, project-based environments. Multifaceted experience in QA software testing, software development, and user-acceptance testing. A quick learner that thrives in the challenge.
+Tobi Belewu is a Skilled Software QA Engineer with 3 years experience in manual and automated testing,test planning, test cases design and test processes at Interswitch LTD and SpringRock Group. She is accustomed to working in complex, project-based environment and has Multifaceted experience in QA software testing, functionality testing, Regression Testing and user-acceptance testing. A quick learner, problem-solver, detail-oriented, result-oriented and employs these skills to achieve consistently timely results.
 
-He has have served as an Intern with Nokia,Jobberman, spectranet, indriver and also helped clients like Joomla, Travelstart, Profeworld to develop and build robust software customer related products & services.
 
-What he does :
+What she does :
 Quality Assurance Engineer | QA Manuel Tester | QA Automation Tester
 
 Skill:
 - Testing Artifacts
 - Manual Testing
-- Automation Testing (Postman)
+- Automation Testing (Postman, Selenium)
 - Agile Test Planning & Testing
 - System Testing and Testing Lifecycle
 - Regression and Functional Testing
 - UI & Compatibility Testing
-- Data Interface & Migration Testing
+- Acceptance Testing
+- Usability & UAT Testing
 - Performance/Load/Stress Testing
 - Testing Automation
 - Defect/Bug Tracking
-- Using Katalon, Selenium, APache JMeter
+- Using Katalon, Selenium, Pycharm
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1ax3AydYyLBrYuuKdu-P_VAcjZaGZPogc/view?usp=sharing).
@@ -42,17 +42,32 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * can perform manual functional, system, integration, regression and usability testing of web applications
+  * Creation of positive and negative test scenarios using boundary value analysis(BVA)
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+  * can apply equivalence partitioning and boundary value analysis to generate test input data
+  * Create User storiesand define acceptace criteria
+  •	Design tests to mitigate risks
+  •	Prioritizing risk, bugs and defects based on severity and determine contingency plans
+  •	Define and review workflows
+  •	Analyze business requirements and review documentation for validity and feasibility
+  •	Detect and track software defects and inconsistencies
+  •	Provide Quality Assurance
+  •	Run Automated and manual tests per sprint
+  •	Generate test data (JSON data as well)
+  •	Test planning according to the business requirements and specifications.
+  •	Development of test cases and test scripts
+  •	Work with the project support team and software developers
+
 
 __API testing__
+  * Manual and automated testing of Rest APIs on Postman
   * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+  * Development and creation of test scripts and pre-request Scripts on Postman
+  * Automated monitoring of Tests on Postman
+  * Review and define workflows
 
 __Exploratory testing__
   * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
