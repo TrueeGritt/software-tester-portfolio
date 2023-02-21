@@ -24,17 +24,15 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Skills
 
-  * Manual and automated testing
+  * Manual and Automation Testing (Postman, Katalon, Selenium)
+  * Review and define workflows
   * Problem-solving
   * Analytical skills
   * Risk Analysis
   * Data Analysis
   * Detail-oriented and Result-oriented
   * Proactive and Multitasking
-  * Skill:
 - Testing Artifacts
-- Manual Testing
-- Automation Testing (Postman, Selenium)
 - Agile Test Planning & Testing
 - System Testing and Testing Lifecycle
 - Regression and Functional Testing
