@@ -124,8 +124,7 @@ __Selenium__
   * Development and creation of test scripts and pre-request Scripts on Postman
   * Automated monitoring of Tests on Postman
   * Review and define workflows
-  * Run postman collections on command line and generate Test Report using Newman Cli. Sample test report file:///C:/Bitmarttestreport/newman/CBIT%20E-COMMERCE%20COPY-2022-03-09-21-29-45-750-0.html#pills-requests
- 
+  * Run postman collections on command line and generate Test Report using Newman Cli.  See[sample test report here](file:///C:/Bitmarttestreport/newman/CBIT%20E-COMMERCE%20COPY-2022-03-09-21-29-45-750-0.html#pills-requests). 
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
