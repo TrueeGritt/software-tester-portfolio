@@ -142,7 +142,10 @@ __Trello and Notion__
 __1st Image Consultancy__  
 *Classroom course by 1st image consultants, Lagos, Nigeria*  
 Certified Foundation Tester Level (CTFL) certificate  
-[Link to the certificate](https://drive.google.com/file/d/1VqoIR_6oUZ1LAFExePTW0-8dLk-ZoDoQ/view?usp=sharing)
+[Link to the certificate](https://drive.google.com/file/d/1Y-Eo7rDF_R0IkZVI0HH33XmgV7jjrDLo/view?usp=sharing)
+
+__ISTQB Certification__  
+In View
 
 ## Examples of my work
 
