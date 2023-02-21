@@ -5,11 +5,11 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+  * [Projects Worked on ](#projects-worked-on)
+  * [Sample Test cases](#sample-test-cases)
+  * [Sample Bug reports and work in Jira](#sample-bug-reports-and-work-in-jira)
+  * [Sample Pre and post-deployment Checklist](#sample-pre-and-post-deployment-checklist)
+
 
 ## About me
 
@@ -19,7 +19,19 @@ Tobi Belewu is a Skilled Software QA Engineer with 3 years experience in manual 
 What she does :
 Quality Assurance Engineer | QA Manuel Tester | QA Automation Tester
 
-Skill:
+## CV
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1ax3AydYyLBrYuuKdu-P_VAcjZaGZPogc/view?usp=sharing).
+
+## Skills
+
+  * Manual and automated testing
+  * Problem-solving
+  * Analytical skills
+  * Risk Analysis
+  * Data Analysis
+  * Detail-oriented and Result-oriented
+  * Proactive and Multitasking
+  * Skill:
 - Testing Artifacts
 - Manual Testing
 - Automation Testing (Postman, Selenium)
@@ -32,13 +44,8 @@ Skill:
 - Testing Automation
 - Defect/Bug Tracking
 - Using Katalon, Selenium, Pycharm
-
-## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1ax3AydYyLBrYuuKdu-P_VAcjZaGZPogc/view?usp=sharing).
-
-## Skills
-
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+	
+You can find further examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Test analysis & design__
   * Functional decomposition of products, creating state transition diagrams, writing use cases
@@ -145,16 +152,17 @@ Certified Foundation Tester Level (CTFL) certificate
 [Link to the certificate](https://drive.google.com/file/d/1Y-Eo7rDF_R0IkZVI0HH33XmgV7jjrDLo/view?usp=sharing)
 
 __ISTQB Certification__  
-In View
+In Progress
+
 
 ## Examples of my work
 
-__Projects Worked on__  
+## Projects Worked on 
 
   * Korapay
   * bitMARTe
 
-### Test cases and work in TestRail
+### Sample Test cases.
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
@@ -166,12 +174,15 @@ __Projects Worked on__
   * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
 
 
-### Bug reports and work in Jira
+### Sample Bug reports and work in Jira
 
 - Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
+
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+
+### Sample Pre and post-deployment Checklist
 
 
