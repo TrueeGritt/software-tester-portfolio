@@ -110,7 +110,7 @@ __TestRail__
 
 __Katalon__
   * Automate web applications using Katalon Studio
-  * Create web ui tests for multiple browsers
+  * Create web UI tests for multiple browsers
   * Learn record and playback
   * Find objects using object spy
   * Execute web ui automation tests on multiple browsers
