@@ -68,7 +68,7 @@ __API testing__
   * Development and creation of test scripts and pre-request Scripts on Postman
   * Automated monitoring of Tests on Postman
   * Review and define workflows
-  * Run postman collections on command line and generate Test Report using Newman Cli. Sample test report https://drive.google.com/file/d/15cFEP4xmCkwW_l4k5zoqDmb6i1aDMZKT/view?usp=share_link
+  * Run postman collections on command line and generate Test Report using Newman Cli. Sample test report https://drive.google.com/file/d/1PhrrnpHKyE8cl7Oj3dSTf2Gxqe5Nks6r/view?usp=sharing
   
 
 __Manual testing__
@@ -130,7 +130,7 @@ __Selenium__
   * Development and creation of test scripts and pre-request Scripts on Postman
   * Automated monitoring of Tests on Postman
   * Review and define workflows
-  * Run postman collections on command line and generate Test Report using Newman Cli.  https://drive.google.com/file/d/15cFEP4xmCkwW_l4k5zoqDmb6i1aDMZKT/view?usp=share_link
+  * Run postman collections on command line and generate Test Report using Newman Cli.https://drive.google.com/file/d/1PhrrnpHKyE8cl7Oj3dSTf2Gxqe5Nks6r/view?usp=sharing
   
 __Jira__
   * know how to create bug reports
