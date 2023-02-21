@@ -63,11 +63,12 @@ __API testing__
   * Development and creation of test scripts and pre-request Scripts on Postman
   * Automated monitoring of Tests on Postman
   * Review and define workflows
-  * Run postman collections on command line and generate Test Report using Newman Cli. Sample test report file:///C:/Users/Acer/Dropbox/PC/Documents/Git/Newman%20Summary%20Report.html-coupon.html
+  * Run postman collections on command line and generate Test Report using Newman Cli. Sample test report https://drive.google.com/file/d/15cFEP4xmCkwW_l4k5zoqDmb6i1aDMZKT/view?usp=share_link
+  
 
 __Manual testing__
   * can perform manual functional, system, integration, regression and usability testing of web applications
-  * Creation of positive and negative test scenarios using boundary value analysis(BVA
+  * Creation of positive and negative test scenarios using boundary value analysis(BVA)
   
 __Automated testing__
 
@@ -124,7 +125,8 @@ __Selenium__
   * Development and creation of test scripts and pre-request Scripts on Postman
   * Automated monitoring of Tests on Postman
   * Review and define workflows
-  * Run postman collections on command line and generate Test Report using Newman Cli.  See[sample test report here](file:///C:/Bitmarttestreport/newman/CBIT%20E-COMMERCE%20COPY-2022-03-09-21-29-45-750-0.html#pills-requests). 
+  * Run postman collections on command line and generate Test Report using Newman Cli.  https://drive.google.com/file/d/15cFEP4xmCkwW_l4k5zoqDmb6i1aDMZKT/view?usp=share_link
+  
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
