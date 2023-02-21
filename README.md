@@ -138,12 +138,17 @@ __Trello and Notion__
 
 ## Courses
 
-__The 1st Online Institute of Software Testing__  
+__1st Image Consultancy__  
 *Classroom course by 1st image consultants, Lagos, Nigeria*  
 Certified Foundation Tester Level (CTFL) certificate  
 [Link to the certificate](https://drive.google.com/file/d/1VqoIR_6oUZ1LAFExePTW0-8dLk-ZoDoQ/view?usp=sharing)
 
 ## Examples of my work
+
+__Projects Worked on__  
+
+  * Korapay
+  * bitMARTe
 
 ### Test cases and work in TestRail
 
