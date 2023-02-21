@@ -63,7 +63,7 @@ __API testing__
   * Development and creation of test scripts and pre-request Scripts on Postman
   * Automated monitoring of Tests on Postman
   * Review and define workflows
-  * Run postman collections on command line and generate Test Report using Newman Cli. Sample test report file:///C:/Bitmarttestreport/newman/CBIT%20E-COMMERCE%20COPY-2022-03-09-21-29-45-750-0.html#pills-requests
+  * Run postman collections on command line and generate Test Report using Newman Cli. Sample test report file:///C:/Users/Acer/Dropbox/PC/Documents/Git/Newman%20Summary%20Report.html-coupon.html
 
 __Manual testing__
   * can perform manual functional, system, integration, regression and usability testing of web applications
