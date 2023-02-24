@@ -158,6 +158,7 @@ In Progress
 ## Projects Worked on 
 
   * Korapay
+  * Manual, functionality and usability testing of the Bot VERA
   * bitMARTe
 
 ### Sample Test cases.
