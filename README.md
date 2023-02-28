@@ -13,7 +13,7 @@
 
 ## About me
 
-Tobi Belewu is a Skilled Senior Software QA Engineer with 3 years of experience in manual and automated testing, test planning, test case design and test processes at Interswitch LTD and SpringRock Group. She is accustomed to working in a complex, project-based environment and has Multifaceted experience in QA software testing, functionality testing, Regression Testing and user-acceptance testing. A quick learner, problem-solver, detail-oriented, result-oriented and employs these skills to achieve consistently timely results.
+Tobi Belewu is a Skilled Senior Software QA Engineer with 4 years of experience in manual and automated testing, test planning, test case design and test processes at Interswitch LTD and SpringRock Group. She is accustomed to working in a complex, project-based environment and has Multifaceted experience in QA software testing, functionality testing, Regression Testing and user-acceptance testing. A quick learner, problem-solver, detail-oriented, result-oriented and employs these skills to achieve consistently timely results.
 
 
 What she does :
