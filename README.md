@@ -13,16 +13,18 @@
 
 ## About me
 
-Tobi Belewu is a Skilled Senior Software QA Engineer with 4 years of experience in manual and automated testing, test planning, test case design and test processes at Interswitch LTD and SpringRock Group. She is accustomed to working in a complex, project-based environment and has Multifaceted experience in QA software testing, functionality testing, Regression Testing and user-acceptance testing. A quick learner, problem-solver, detail-oriented, result-oriented and employs these skills to achieve consistently timely results.
+Tobi Belewu is a Skilled Senior Software QA Engineer with 4 years of experience in manual and automated testing, test planning, test case design and test processes at Interswitch LTD and SpringRock Group. She has worked in various industries such as ecommerce, Fintech, Financial, Health care, Banking e.t.c She is accustomed to working in a complex, project-based environment and has Multifaceted experience in QA software testing, Web and mobile Testing, API Testing, System Testing, functionality testing, Regression Testing and user-acceptance testing. A quick learner, problem-solver, detail-oriented, result-oriented and employs these skills to achieve consistently timely results.
 
 
 What she does :
-Quality Assurance Engineer | QA Manuel Tester | QA Automation Tester
+Quality Assurance Engineer | QA Manual Tester | QA Automation Engineer
 
 ## Skills
 
   * Manual and Automation Testing (Postman, Katalon, Selenium)
+  * Mobile and web testing
   * Review and define workflows
+  * Integrating test cases to the bitbucket pipeline
   * Problem-solving
   * Analytical skills
   * Risk Analysis
@@ -71,6 +73,10 @@ __API testing__
 __Manual testing__
   * can perform manual functional, system, integration, regression and usability testing of web applications
   * Creation of positive and negative test scenarios using boundary value analysis(BVA)
+
+__Mobile testing__
+  * can perform manual functional, system, integration, regression and usability testing of mobile applications using browserstack and scrypy.
+  * Creation of positive and negative test scenarios using boundary value analysis(BVA)
   
 __Automated testing__
 
@@ -95,12 +101,14 @@ __Test documentation__
   * can create test cases and checklists and know-how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
-__POSTGRESQL databases__
-  * can write complex requests using subqueries
-  * Monitor server performance and speed.
-
 
 ## Tools
+
+__Bitbucket__
+  * create bitbucket repository for testcases and integrate to the pipeline and Newman cli
+  * Configure repository variables
+  * Create change request, release notes and post-deployment checklists
+  * Schedule automated tests to run daily.
 
 __TestRail__
   * know how to create test cases and test suits
@@ -124,6 +132,10 @@ __Selenium__
   * Understand the basic and advanced concepts and working of Selenium
   * Understand the basic and advanced  concepts of Automation Frameworks
   * Create test automation framework step by step
+
+__Cypress__
+  * Create automation frameworks using Cypress in Javascript
+  * Create test automation framework step by step
  
  __Postman__
   * Manual and automated testing of Rest APIs on Postman
@@ -142,6 +154,25 @@ __Jira__
 __Trello and Notion__
   * know how to use Kanban boards and track project progress
 
+__POSTGRESQL databases__
+  * can write complex requests using SQL
+  * Monitor server performance and speed.
+
+__SCYLLA databases__
+  * can write complex requests using SQL
+  * Monitor server performance and speed.
+
+__BrowserStack__
+  * Mobile app testing using various devices.
+
+__Google Cloud Platform__
+  * To check logs and events
+
+__ARGOCD__
+  * To check logs.
+
+__RabbitMQ__
+  * To check logs.
 
 ## Courses
 
@@ -151,8 +182,11 @@ Certified Foundation Tester Level (CTFL) certificate
 [Link to the certificate](https://drive.google.com/file/d/1Y-Eo7rDF_R0IkZVI0HH33XmgV7jjrDLo/view?usp=sharing)
 
 __ISTQB Certification__  
-In Progress
-
+2024 ASTQB -ISTQB
+American Software Testing Qualifications Board- International Software Testing
+Qualifications Board.
+Global Certification (CTFL)
+https://atsqa.org/certified-testers/profile/36dcb7efe40846ce84490074842f3de3
 
 ## Examples of my work
 
@@ -161,6 +195,10 @@ In Progress
   * Korapay
   * Manual, functionality and usability testing of the Bot VERA
   * bitMARTe
+  * Zenith bank applications
+  * Interswitch applications
+  * Axxess care applications
+  * Nextbasket Ecomerce application
 
 ### Sample Test Plan.
 
