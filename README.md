@@ -13,7 +13,7 @@
 
 ## About me
 
-Tobi Belewu is a ISTQB Certified Senior Software QA Engineer with 4 years of experience in manual and automated testing, test planning, test case design and test processes at Interswitch LTD and SpringRock Group. She has worked in various industries such as ecommerce, Fintech, Financial, Health care, Banking e.t.c She is accustomed to working in a complex, project-based environment and has Multifaceted experience in QA software testing, Web and mobile Testing, API Testing, System Testing, functionality testing, Regression Testing and user-acceptance testing. A quick learner, problem-solver, detail-oriented, result-oriented and employs these skills to achieve consistently timely results.
+Tobi Belewu is a ISTQB Certified Senior Software QA Engineer with 4 years of experience in manual and automated testing, test planning, test case design and test processes at Interswitch LTD, SpringRock Group amongst others. She has worked in various industries such as ecommerce, Fintech, Financial, Health care, Banking e.t.c She is accustomed to working in a complex, project-based environment and has Multifaceted experience in QA software testing, Web and mobile Testing, API Testing, System Testing, functionality testing, Regression Testing and user-acceptance testing. A quick learner, problem-solver, detail-oriented, result-oriented and employs these skills to achieve consistently timely results.
 
 
 What she does :
@@ -21,7 +21,7 @@ Quality Assurance Engineer | QA Manual Tester | QA Automation Engineer
 
 ## Skills
 
-  * Manual and Automation Testing (Postman, Katalon, Selenium)
+  * Manual and Automation Testing (Postman, Katalon, Cypress)
   * Mobile and web testing
   * Review and define workflows
   * Integrating test cases to the bitbucket pipeline
